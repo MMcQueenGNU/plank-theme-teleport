@@ -1,14 +1,10 @@
-# Teleport Mint Theme for Plank
+# Teleport Theme for Plank
 #
-#Created: july 2021
-#License: MIT
+#Created: mar. 2021
+#License: MIT © Horherlan L.
 #
-#Author: tudo75
-#Social: https://github.com/tudo75
-#
-#Original Author: horberlan
+#Author: horberlan
 #Social: https://github.com/horberlan
-#
 
 [PlankTheme]
 #The roundness of the top corners.
@@ -24,7 +20,7 @@ FillStartColor=0;;0;;0;;0
 #The ending color (RGBA) of the fill gradient.
 FillEndColor=0;;0;;0;;0
 #The color (RGBA) of the inner stroke.
-InnerStrokeColor=146;;182;;98;;1
+InnerStrokeColor=255;;192;;203;;1
 
 [PlankDockTheme]
 #The padding on the left/right dock edges, in tenths of a percent of IconSize.
@@ -34,9 +30,9 @@ TopPadding=-10
 #The padding on the bottom dock edge, in tenths of a percent of IconSize.
 BottomPadding=0
 #The padding between items on the dock, in tenths of a percent of IconSize.
-ItemPadding=2.5
+ItemPadding=7
 #The size of item indicators, in tenths of a percent of IconSize.
-IndicatorSize=8
+IndicatorSize=0
 #The size of the icon-shadow behind every item, in tenths of a percent of IconSize.
 IconShadowSize=4
 #The height (in percent of IconSize) to bounce an icon when the application sets urgent.
